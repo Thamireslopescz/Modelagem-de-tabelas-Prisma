@@ -1,4 +1,5 @@
 # Atividade de Modelagem de Tabelas - GrowDev
+![202001280000007-removebg-preview](https://github.com/Thamireslopescz/Modelagem-de-tabelas-Prisma/assets/100656019/f7884206-bd35-4d4a-9b05-26be678e6621)
 
 **Autora:** Thamires Lopes
 
