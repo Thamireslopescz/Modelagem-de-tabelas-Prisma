@@ -20,6 +20,3 @@ Este projeto é uma atividade prática de modelagem de tabelas para o curso da G
 Certifique-se de personalizar e adaptar os modelos de acordo com os requisitos do seu projeto.
 
 ![Logo-Prisma](https://github.com/Thamireslopescz/Modelagem-de-tabelas-Prisma/assets/100656019/e7079c15-7e73-4ad3-a751-333d3c52425b)
-
-![code-stable-white](https://github.com/Thamireslopescz/Modelagem-de-tabelas-Prisma/assets/100656019/d161b444-38bd-4de7-a339-04d3611990aa)
-
